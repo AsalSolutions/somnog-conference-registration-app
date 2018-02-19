@@ -1,24 +1,28 @@
 <!-- Footer Starts here-->
-<nav class="navbar fixed-bottom navbar-light bg-light">
-     <div class="container">
-        <ul class="nav">
-            <li class="nav-item">
-                <a class="nav-link active" href="#">Home</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Network</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link" href="#">Systems</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link " href="#">Conference</a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link " href="#">Login</a>
-            </li>
-        </ul>
-    </div>
-</nav>    
+<footer>
+    <nav class="navbar fixed-bottom navbar-light bg-light">
+        <div class="container">
+            <ul class="nav">
+                <li class="nav-item">
+                    <a class="nav-link active" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Network</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Systems</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="#">Conference</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link " href="#">Login</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</footer>
+<script src="assets/js/jquery.min.js"></script> 
+<script src="bootstrap/js/bootstrap.min.js"></script>  
 </body>
 </html>
