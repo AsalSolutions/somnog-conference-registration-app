@@ -1,6 +1,8 @@
 <!-- Footer Starts here-->
+
+<div class="container">
 <footer>
-    <nav class="navbar fixed-bottom navbar-light bg-light">
+    <nav class="navbar footer">
         <div class="container">
             <ul class="nav">
                 <li class="nav-item">
@@ -21,8 +23,13 @@
             </ul>
         </div>
     </nav>
+
 </footer>
+</div>
+ 
+
 <script src="assets/js/jquery.min.js"></script> 
 <script src="bootstrap/js/bootstrap.min.js"></script>  
+<script src="assets/js/main.js"></script> 
 </body>
 </html>
